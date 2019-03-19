@@ -60,22 +60,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ActiveStateToggler.cs" />
+    <Compile Include="Assets\Scripts\ApplicationManager.cs" />
+    <Compile Include="Assets\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\Scripts\DragMe.cs" />
+    <Compile Include="Assets\Scripts\DragPanel.cs" />
+    <Compile Include="Assets\Scripts\DropMe.cs" />
+    <Compile Include="Assets\Scripts\LoadAnotherSceneOnClick.cs" />
     <Compile Include="Assets\Scripts\LoadConnectionSceneOnCLick.cs" />
+    <Compile Include="Assets\Scripts\LoadHomeFromCalendarOnClick.cs" />
+    <Compile Include="Assets\Scripts\LoadHomeSceneFromCalendarOnClick.cs" />
+    <Compile Include="Assets\Scripts\PanelManager.cs" />
     <Compile Include="Assets\Scripts\QuitAppOnClick.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ActiveStateToggler.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ApplicationManager.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ChangeColor.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\DragMe.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\DragPanel.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\DropMe.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\PanelManager.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ResizePanel.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ScrollDetailTexture.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\ShowSliderValue.cs" />
-    <Compile Include="Assets\StartMenu\Scripts\TiltWindow.cs" />
-    <None Include="Assets\StartMenu\Fonts\Jupiter\LICENSE.txt" />
-    <None Include="Assets\StartMenu\Textures and Sprites\SF UI\Background\LICENSE.txt" />
-    <None Include="Assets\StartMenu\Materials\UI-Default-No-Alpha.shader" />
+    <Compile Include="Assets\Scripts\ResizePanel.cs" />
+    <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
+    <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
+    <Compile Include="Assets\Scripts\TiltWindow.cs" />
+    <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
+    <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+    <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/PC-Armel/Documents/Mes Projets/PROJETS Unity/2D games/eAssist/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
