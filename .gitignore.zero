@@ -1,0 +1,19 @@
+debug.log
+
+# Ignorez tous les logs
+*.log
+
+# Ignorez tous les logs
+.vs/
+
+# Ignorez tous les logs
+Library/
+
+# Ignorez tous les logs
+Temp/
+
+#
+.gitignore
+
+#
+PPE-eAssist-master.zip
