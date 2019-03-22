@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-03-21T15:50:38.090+01:00
+  initializedAtString: 2019-03-21T05:52:19.392+01:00
+  entries:
+  - path: .gitignore.old
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\.gitignore.old
+    projectPath: .gitignore.old
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+    projectPath: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\Agenda.unity
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Assets\Scenes\Agenda.unity
+    projectPath: Assets\Scenes\Agenda.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Builds\eAssist.apk
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Builds\eAssist.apk
+    projectPath: Builds\eAssist.apk
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2
+    projectPath: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2.info
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2.info
+    projectPath: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\f448e31b84961486cb016732285b1496
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\f448e31b84961486cb016732285b1496
+    projectPath: Library\PlayerDataCache\Android\Data\f448e31b84961486cb016732285b1496
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\level0
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\level0
+    projectPath: Library\PlayerDataCache\Android\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\Managed\XiaomiSupport.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\Managed\XiaomiSupport.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\XiaomiSupport.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ScriptAssemblies\Editor.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Editor.dll
+    projectPath: Library\ScriptAssemblies\Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\XiaomiSupport.dll
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\ScriptAssemblies\XiaomiSupport.dll
+    projectPath: Library\ScriptAssemblies\XiaomiSupport.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\31a450-mainStage.json
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\StateCache\Hierarchy\31a450-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\31a450-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\792c35-mainStage.json
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\Library\StateCache\SceneView\792c35-mainStage.json
+    projectPath: Library\StateCache\SceneView\792c35-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\PC-Armel\Documents\Mes Projets\PROJETS Unity\2D games\eAssist\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
